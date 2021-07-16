@@ -1,0 +1,10 @@
+{"id":8,"command":"add","operation":"10 + 9","result":19};
+{"id":9,"command":"add","operation":"11 + 9","result":20};
+{"id":12,"command":"add","operation":"12 + 4","result":16};
+{"id":13,"command":"add","operation":"1 + 2 + 3 + 4","result":10};
+{"id":14,"command":"add","operation":"1 + 2 + 3 + 5","result":11};
+{"id":15,"command":"power","operation":"1 ^ 2","result":1};
+{"id":16,"command":"Add","operation":"1 + 2","result":3};
+{"id":17,"command":"Subtract","operation":"2 - 1","result":1};
+{"id":18,"command":"Divide","operation":"10 \/ 2","result":5};
+{"id":19,"command":"multiply","operation":"10 * 2","result":20};
